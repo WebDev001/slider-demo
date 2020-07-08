@@ -93,6 +93,13 @@ header{
     z-index: 1;
 }
 
+@media (max-width: 639px){
+    .next-btn,
+    .prev-btn{
+        display: none !important;
+    }
+}
+
 
 
 
